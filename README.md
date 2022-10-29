@@ -3,6 +3,8 @@
 - 🌱 I’m currently learning Web Development / Front End Engineer
 - 💞️ I’m looking to collaborate on ... Still Dont Know 
 - 📫 How to reach me (Coming_SOon)
+- 🎓 I’m currently studying at Vocational High School In Cerme 🇮🇩
+- 🌏 I Live in INDONESIA 🇮🇩
 
 <!---
 LuckyPortID/LuckyPortID is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
